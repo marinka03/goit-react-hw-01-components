@@ -1,0 +1,22 @@
+.transactionHistory {
+  background-color: #f9fbfa;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+    rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+  border-radius: 5px;
+  width: 800px;
+}
+.theadTable {
+  background-color: #3bacf5;
+}
+.thTable {
+  /* background-color: #3BACF5; */
+  text-transform: uppercase;
+  color: aliceblue;
+}
+.tdTable {
+  color: #767676;
+  text-align: center;
+}
+.tr:nth-child(even) {
+  background-color: #ebebeb;
+}
