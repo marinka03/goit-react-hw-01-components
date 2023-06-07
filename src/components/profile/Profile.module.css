@@ -27,7 +27,8 @@ li {
   color: #6c6c6c;
 }
 .location {
-  composes: tag;
+  font-size: 15px;
+  color: #6c6c6c;
 }
 .stats {
   list-style: none;

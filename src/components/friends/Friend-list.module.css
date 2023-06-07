@@ -12,7 +12,9 @@
     background-color: #7BFE2E;
 }
 .isOnlineFalse {
-    composes: isOnline;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
     background-color: #F53B3B;
 }
 .item {
