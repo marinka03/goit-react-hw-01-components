@@ -1,7 +1,7 @@
-import Profile from './profile/Profile';
-import Statistics from './statistics/Statistics';
-import FriendList from './friends/Friend-list';
-import TransactionHistory from './transactions/Transaction-history';
+import Profile from './Profile/Profile';
+import Statistics from './Statistics/Statistics';
+import FriendList from './Friends/FriendList';
+import TransactionHistory from './Transactions/TransactionHistory';
 
 import user from './user.json';
 import data from './data.json';
@@ -20,7 +20,6 @@ export const App = () => {
         paddingTop: 70 + 'px',
         paddingBottom: 70 + 'px',
         backgroundColor: '#E4EDE6',
-        // fontSize: 20,
         color: '#010101',
       }}
     >
